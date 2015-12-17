@@ -1,0 +1,31 @@
+{
+  "name": "visitlead",
+  "description": "Fügt eine Einstellung hinzu um die visitlead ID einzufügen sodass der benötigte Code auf der Seite ausgegeben wird.",
+  "keywords": ["visitlead","visitlead.com","onSitemarketing","onsitechat","livechat"],
+  "type": "contao-module",
+  "license": "LGPL",
+  "authors": [
+    {
+      "name": "Thorsten Wahl",
+      "email": "thorsten@lhaw.de",
+      "homepage": "http://www.lhaw.de",
+      "role": "Programmer"
+    },
+    {
+      "name": "Klaus Muckenhuber",
+      "homepage": "https://visitlead.com",
+      "role": "Contributor"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.4",
+    "contao/core": ">=3.0"
+  },
+  "extra": {
+    "contao": {
+      "sources": {
+        "src/visitlead": "system/modules/visitlead"
+      }
+    }
+  }
+}
