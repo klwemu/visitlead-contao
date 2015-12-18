@@ -1,7 +1,7 @@
 {
-  "name": "visitlead",
-  "description": "Fügt eine Einstellung hinzu um die visitlead ID einzufügen sodass der benötigte Code auf der Seite ausgegeben wird.",
-  "keywords": ["visitlead","visitlead.com","onSitemarketing","onsitechat","livechat"],
+  "name": "visitlead-livechat",
+  "description": "Livechat and monitoring for your contao website. The plugin aks for your visitlead ID (create a free account at: visitlead.com/register) and adds the needed code.",
+  "keywords": ["livechat","video chat","monitoring","tracking","cobrowsing","visitlead"],
   "type": "contao-module",
   "license": "LGPL",
   "authors": [
